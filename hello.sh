@@ -1,1 +1,1 @@
-echo Hello, Git Branching!
+echo Hello from my own repo
